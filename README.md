@@ -16,14 +16,15 @@ condition on the terminal. You can use this code
 to quickly fetch weather data for any city without
 having to manually look it up online.
 ```
-#More Info
+# More Info
 ```
 You Can Compile this Source code to executable file by using the following Command
  ```
  g++ -o weather weather.cpp -lcurl
  ```
  and execute it using the following command
- ```
+```
+```
  ./weather
  ```
-```
+
