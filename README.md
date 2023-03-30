@@ -27,4 +27,13 @@ g++ -o weather weather.cpp -lcurl
 ```
 ./weather
  ```
+ # Executable
+ ```
+ I also Provided the executable file. 
+ You can run the executable file 
+ using above command. Just open terminal
+ and change the directory to the folder where
+ you have downloaded the executable file and
+ type the above command
+ ```
 
