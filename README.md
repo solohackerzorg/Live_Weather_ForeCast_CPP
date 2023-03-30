@@ -29,8 +29,9 @@ g++ -o weather weather.cpp -lcurl
  ```
  # Executable
  ```
- I also Provided the executable file. 
- You can run the executable file 
+ I also Provided the executable file . 
+ You can run the executable file Just
+ unzip the zipped file and then execute file
  using above command. Just open terminal
  and change the directory to the folder where
  you have downloaded the executable file and
