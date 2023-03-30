@@ -20,11 +20,11 @@ having to manually look it up online.
 
 You Can Compile this Source code to executable file by using the following Command
  ```
- g++ -o weather weather.cpp -lcurl
+g++ -o weather weather.cpp -lcurl
  ```
  and execute it using the following command
 
 ```
- ./weather
+./weather
  ```
 
